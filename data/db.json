@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "aaaaaaaaa",
+      "details": "ras maximus odio malesuada ex facilisis finibus. Duis cursus leo elit, nec maximus est pellentesque in. Etiam diam dui, ultrices ac mauris id, gravida viverra sapien. Pellentesque ac ante mi. Sed dolor diam, cursus quis rutrum a, blandit a arcu. Integer porttitor mauris facilisis vehicula pharetra. Proin sollicitudin nibh sed lacinia molestie. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur condimentum mauris varius orci suscipit blandit. Quisque quis tortor at ligula rhoncus vehicula ut et enim. Aliquam erat volutpat. Nulla lacinia non erat a laoreet. Mauris ornare rutrum neque, id consequat orci lacinia vel. Phasellus faucibus, nibh eu tempor vulputate, nibh orci volutpat massa, sit amet condimentum tortor est sit amet massa. Quisque id est ligula.\n\n",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "utzg8zu",
+      "details": "uizghuizh9ui",
+      "category": "work",
+      "id": 9
+    },
+    {
+      "title": "ppolkp",
+      "details": "lijkpokšplč.",
+      "category": "money",
+      "id": 10
+    }
+  ]
+}
